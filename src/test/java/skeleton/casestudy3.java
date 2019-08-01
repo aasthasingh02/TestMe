@@ -51,6 +51,7 @@ private WebDriver driver;
 		driver.findElement(By.xpath("/html/body/section/div/div/div[2]/div[1]/div/div/div[2]/center/a")).click();
 	}
 
+
 	@Then("user is directed to signin page")
 	public void user_is_directed_to_signin_page() {
 		

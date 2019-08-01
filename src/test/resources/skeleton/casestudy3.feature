@@ -7,7 +7,7 @@ user gets suggestion on typing some alphabets
 user cannot go to cart without adding a product
 
 Business Rules :
--user Should sign in first
+-user Should sign in firs
 -user gets suggestion on typing some alphabets
 -user should  add atleast one product to go to cart
 
